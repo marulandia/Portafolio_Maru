@@ -1,4 +1,4 @@
-# 📘 Portafolio Web – Proyectos del Bootcamp Full Stack Python/Django
+Portafolio Web – Proyectos del Bootcamp Full Stack Python/Django
 
 Este portafolio reúne los proyectos desarrollados durante el bootcamp Full Stack, mostrando el progreso gradual en programación, diseño web, bases de datos, backend con Django y despliegue.
 Cada proyecto evidencia crecimiento en lógica, arquitectura, modelamiento de datos e implementación de soluciones reales.
@@ -12,7 +12,7 @@ He liderado proyectos en simbiosis industrial, valorización agroalimentaria y g
 
 ---
 
-## 🚀 Proyectos del Bootcamp
+## Proyectos del Bootcamp
 
 ### 1️⃣ Sitio web de ciberseguridad (HTML, CSS, Bootstrap, JS)
 
